@@ -3,6 +3,7 @@
 
 ## Prerequisites
 1. Ruby 2.x
+2. Yarn
 
 ## Getting Started
 1. Install Bundler at the command prompt if you haven't yet:
